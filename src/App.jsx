@@ -17,7 +17,7 @@ function App() {
       <Supercharge />
       <References />
       <CTA />
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 }
